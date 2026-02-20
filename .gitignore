@@ -480,3 +480,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Keep OpenTelemetry proto files in Protos directory
+!OtlpReceiver.Api/Protos/
+!OtlpReceiver.Api/Protos/**
