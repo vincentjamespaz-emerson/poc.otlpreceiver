@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OtlpReceiver.Api/OtlpReceiver.Api.csproj" />
+  <Project Path="OtlpReceiver.Tests/OtlpReceiver.Tests.csproj" />
+</Solution>
